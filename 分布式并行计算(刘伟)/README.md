@@ -1,0 +1,22 @@
+# 分布式并行计算
+
+- 实验一
+  - Helloworld
+    - MPI
+  - Pi
+    - Serial
+    - MPI
+- 实验二
+  - Helloworld
+    - Pthread
+    - OpenMP
+  - Pi (integral)
+    - Serial
+    - Pthread
+    - OpenMP
+  - Count Words
+    - Serial
+    - Pthread
+  - Pi (montecarlo)
+    - Serial
+    - OpenMP
