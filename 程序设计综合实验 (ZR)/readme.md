@@ -1,7 +1,12 @@
-[原仓库点这里](https://github.com/CO2mega/2024program_design-homework-) 用clion里的cmake编译的，开箱即用
-❌标记的可以作为你自己的特色功能编写，提供思路
-✅标记的是
-begin_r.cpp 为入口源程序 
+**贡献者：**[CO2mega](https://github.com/CO2mega)
+
+**仓库链接：**https://github.com/CO2mega/2024program_design-homework-
+
+用 CLion 里的 Cmake 编译的，开箱即用。
+
+- ❌ 标记的可以作为你自己的特色功能编写，提供思路
+- ✅ 标记的是已实现的特性
+- `begin_r.cpp` 为入口源程序 
 
 |修了没|features&bugs|
 |-----------|---------------------|
@@ -16,8 +21,8 @@ begin_r.cpp 为入口源程序
 |❌|模糊查找|
 |❌|云存储（如git）|
 ---
-userlog里面按用户名存了所有数据
-log.txt存了所有用户包括管理的操作
-错误输入会随机放一个音频（纯整活）
-~~还有啥特性我也忘了~~
-媒体播放器包里带了个VLC，支持播放音频和视频，自行取舍
+- userlog 里面按用户名存了所有数据
+- log.txt 存了所有用户包括管理的操作
+- 错误输入会随机放一个音频（纯整活）
+- ~~还有啥特性我也忘了~~
+- 媒体播放器包里带了个VLC，支持播放音频和视频，自行取舍
